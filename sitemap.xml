@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://codehey.github.io/posts/FirstPost/</loc>
+<lastmod>2022-07-12T03:33:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://codehey.github.io/categories/</loc>
+<lastmod>2022-07-13T14:28:35+00:00</lastmod>
+</url>
+<url>
+<loc>https://codehey.github.io/tags/</loc>
+<lastmod>2022-07-13T14:28:35+00:00</lastmod>
+</url>
+<url>
+<loc>https://codehey.github.io/archives/</loc>
+<lastmod>2022-07-13T14:28:35+00:00</lastmod>
+</url>
+<url>
+<loc>https://codehey.github.io/about/</loc>
+<lastmod>2022-07-13T14:28:35+00:00</lastmod>
+</url>
+<url>
+<loc>https://codehey.github.io/</loc>
+</url>
+<url>
+<loc>https://codehey.github.io/tags/python/</loc>
+</url>
+<url>
+<loc>https://codehey.github.io/categories/machine-learning/</loc>
+</url>
+</urlset>
